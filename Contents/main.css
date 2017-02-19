@@ -1,0 +1,19 @@
+body {
+	background-image: url("background.svg");
+	background-size: cover;
+	background-color: lightgrey;
+	margin: 6em;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header > h1 {
+	text-decoration: underline;
+}
+article p {
+	margin-right: 20em;
+}
+
+blockquote {
+	font-style: italic;
+	font-weight: bold;
+	font-size: 200%;
+}

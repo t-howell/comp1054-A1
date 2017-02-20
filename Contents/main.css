@@ -24,10 +24,9 @@ p {
 blockquote {
 	font-style: italic;
 	font-weight: bold;
-	width: 100%;
-	font-size: 200%;
-	float: right;
-	margin: 0;
+	font-size: 300%;
+	margin: 10px;
+	
 }
 
 figure {
@@ -44,4 +43,13 @@ img #georgia {
 
 img #printingPress {
 	float: right;
+}
+
+footer {
+	height: 40px;
+	background-color: darkgrey;
+	color: whitesmoke;
+	text-align: center;
+	padding: 5px;
+	margin: 10px;
 }
